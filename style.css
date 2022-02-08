@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap");
+
+* {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.btn-navbar {
+  border: none;
+  padding: 8px 16px;
+  border-radius: 100px;
+  color: white;
+  background-color: #ff5f5f;
+}
+
+.bg-image {
+  background-image: url("https://cdn.ko-fi.com/cdn/landing_assets/kofi_heroimg.png");
+  height: 760px;
+  background-size: cover;
+  background-position: center;
+}
+
+.form-input {
+  border-radius: 50px;
+  margin: auto;
+  display: flex;
+  width: 512px;
+  height: 78px;
+  border: 0.1px solid rgba(0, 0, 0, 0.3);
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+.btn-search {
+  border: none;
+  padding: 17px 35px;
+  border-radius: 40px;
+  margin-right: 15px;
+  font-weight: bold;
+  color: white;
+  background-color: #ff5f5f;
+}

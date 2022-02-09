@@ -55,11 +55,11 @@
   line-height: 40px;
 }
 
-.gradient-text {
+/* .gradient-text {
   background: linear-gradient(to right, orange, #ec38bc, #f44242);
   background-clip: text;
   color: transparent;
-}
+} */
 
 .btn-search:hover {
   background-color: #f04643;
